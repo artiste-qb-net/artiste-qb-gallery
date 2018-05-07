@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -395,6 +395,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 80px;
   margin-bottom: 80px;
 }
+.mt-small {
+    margin-top:40px;
+    margin-bottom:40px;
+}
 .mt h4 {
   position: relative;
   padding-left: 40px;
@@ -643,6 +647,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #1fb5f6;
 }
 .fh5co-services .fh5co-post {
+  min-height:15em;
   padding-left: 75px;
 }
 .fh5co-services .fh5co-post h3 {
@@ -674,6 +679,7 @@ h1, h2, h3, h4, h5, h6 {
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   border-radius: 5px;
+  min-height: 25em;
 }
 @media screen and (max-width: 992px) {
   #fh5co-team .team-box {
