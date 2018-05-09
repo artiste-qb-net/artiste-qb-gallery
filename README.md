@@ -9,3 +9,7 @@ Set of examples for the new look of the static artist-qb website
 ## License
 
 * Glint: CC BY 3.0 (footer credits must remain in place)
+
+## Note
+
+The glint template was selected
